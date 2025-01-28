@@ -1,5 +1,4 @@
 import globals from 'globals';
-import pluginJs from '@eslint/js';
 import jest from 'eslint-plugin-jest';
 import eslintRecommended from 'eslint-plugin-prettier/recommended';
 
